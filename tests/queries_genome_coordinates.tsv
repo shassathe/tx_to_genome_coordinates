@@ -1,0 +1,7 @@
+	tx_name	tx_coordinate	chrom	genome_coordinate
+0	TR1	4	CHR1	7.0
+1	TR2	0	CHR2	10.0
+2	TR1	13	CHR1	23.0
+3	TR2	10	CHR2	20.0
+4	TR1	14	CHR1	24.0
+5	TR2	20	CHR2	30.0
